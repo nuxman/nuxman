@@ -1,5 +1,10 @@
 
 ### Hi I'm Rousseau  🐼🐼
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 I work at Tribunal de Justiça do Estado de Rondônia ⚖️
 
@@ -31,11 +36,6 @@ DevOps Engineer, with more than 17 years working in IT, specialized in deploying
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuxman&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <!--
